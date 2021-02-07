@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "806692344322",
+    "project_id": "flutter-image-to-text-5bccf",
+    "storage_bucket": "flutter-image-to-text-5bccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806692344322:android:c737c23795436855d74d1b",
+        "android_client_info": {
+          "package_name": "com.codewithwaqar.imagetotextconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806692344322-6gfpjtdpfpha5h57gm919fvv0akrh8aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithwaqar.imagetotextconverter",
+            "certificate_hash": "6a33cb64781b62ec078b5aea44281fe602f310cc"
+          }
+        },
+        {
+          "client_id": "806692344322-32nsi39c14ded4hohjnqtdvjakc554ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJhG3CAHJT9rrWekXCDiTOENlMTomc0TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806692344322-32nsi39c14ded4hohjnqtdvjakc554ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
